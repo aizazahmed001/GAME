@@ -20,6 +20,11 @@ public:
 
 	}
 	
+	void print() {
+		cout << "NAME:" << name << endl;
+		cout << "CITY NAME:" << city << endl;
+		cout << "AGE:" << age << endl;
+	}
 
 };
 
@@ -30,3 +35,6 @@ int main() {
 	s1.print();
 
 }
+
+void game();
+cout << "AIZAZ AHMED";
