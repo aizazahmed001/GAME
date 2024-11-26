@@ -20,6 +20,11 @@ public:
 
 	}
 	
+	void print() {
+		cout << "NAME:" << name << endl;
+		cout << "CITY NAME:" << city << endl;
+		cout << "AGE:" << age << endl;
+	}
 
 };
 
