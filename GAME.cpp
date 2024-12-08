@@ -26,6 +26,7 @@ public:
 int main() {
 
 	cout<<"Bilal Iqbal"<<endl;
+	cout<<"Bilal Iqbal"<<endl;
 	Student s1;
 	s1.getinput();
 	s1.print();
